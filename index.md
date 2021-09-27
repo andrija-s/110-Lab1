@@ -25,3 +25,4 @@ Here is a quote I found by typing "Oscar Wilde" into google:
 - [E-Mail](mailto:asunjic@ucsd.edu)
 - [LinkedIn](www.linkedin.com/in/andrija-sunjic)
 - [GitHub](https://github.com/andrija-s)
+- [README](README.md)
